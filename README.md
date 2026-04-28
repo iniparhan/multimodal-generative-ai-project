@@ -1,3 +1,6 @@
+# multimodal-generative-ai-project
+A university coursework project implementing Multimodal Generative AI. The application combines text-to-text (LLM), text-to-image, and text-to-speech models within a user-friendly Streamlit interface to solve a real-world use case: automated children's story generation.
+
 ```bash
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
